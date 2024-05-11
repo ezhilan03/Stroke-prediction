@@ -1,7 +1,7 @@
-Dataset: Stroke Prediction
-Data type: .csv
-Repository: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
-Rows x Columns: 5110 x 12
+Dataset: Stroke Prediction.
+Data type: csv.
+Repository: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset.
+Rows x Columns: 5110 x 12.
 This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relevant information about the patient. The data include 1 identifier variable, 10 independent variables and 1 binary dependent variable (if the patient had a stroke or not). Your task is to predict whether a patient is likely to get stroke.
 Variables: 
 1) id: unique identifier
